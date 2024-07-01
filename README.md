@@ -1,5 +1,5 @@
 # SDS
-Statistics for Data Science A.Y. 2023/24
+[Statistics for Data Science A.Y. 2023/24](http://didawiki.cli.di.unipi.it/doku.php/mds/sds/start)
 
 The project aims to equip students with the skills to understand and reproduce innovations in the field, which are typically described in scientific papers
 - **Understanding**: comprehend theoretical and methodological innovations and effectively communicate them to others using appropriate formal statistical language.
